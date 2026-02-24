@@ -1,0 +1,21 @@
+# Frontend
+portfolio-frontend/node_modules/
+portfolio-frontend/dist/
+portfolio-frontend/dist-ssr/
+portfolio-frontend/*.local
+
+# Backend
+portfolio-backend/venv/
+portfolio-backend/__pycache__/
+portfolio-backend/*.pyc
+portfolio-backend/.env
+
+# General
+.vscode/
+.idea/
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
